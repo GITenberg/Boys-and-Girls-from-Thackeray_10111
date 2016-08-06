@@ -1,0 +1,26 @@
+_repo: Boys-and-Girls-from-Thackeray_10111
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sweetser, Kate Dickinson
+    deathdate: 1939
+    gutenberg_agent_id: '3311'
+    url: http://www.gutenberg.org/2009/agents/3311
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thackeray, William Makepeace, 1811-1863 -- Characters'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Henry Esmond -- The Virginians -- Becky Sharp at school -- Cuff's
+  fight with "Figs" -- George Osborne; Rawdon Crawley -- Clive and Ethel Newcome --
+  Arthur Pendennis -- Caroline.
+title: Boys and Girls from Thackeray
+url: http://www.gutenberg.org/ebooks/10111
